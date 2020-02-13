@@ -1,0 +1,15 @@
+body
+{
+	display: flex;
+	justify-content: center
+}
+h1 { margin: 0 }
+td { height: 1em; padding: 0 1em 0 1em; vertical-align: top }
+a{ color: #000 }
+a:hover { color: #00f }
+.first { text-align: right; font-weight: bold }
+.second { width: 30em }
+#wrapper { max-width: 60em; margin: 3em }
+table { table-layout: fixed; width: 100% }
+blockquote { margin: 0em 0em 0em 3em; color: #888 }
+.third { color: #aaa }
