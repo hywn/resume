@@ -3,29 +3,28 @@
 \<a href="mailto:jh7qbe@virginia.edu">jh7qbe@virginia.edu</a>
 \<a href="https://github.com/hywn">github.com/hywn</a>
 \
-Education \Learn to Program: The Fundamentals (Coursera)\2014
+Education \Anticipated BS in Computer Science (University of Virginia: GPA 4.0)\Present - 2023
           \AP Computer Science (Woodgrove High School)\2018 - 2019
-          \Anticipated BS in Computer Science (University of Virginia: GPA 4.0)\Present - 2023
-          \
+          \Learn to Program: The Fundamentals (Coursera)\2014
 \
-Primary Skills\I can follow directions
-\I can program
-\I have a fair amount of (non-school) programming experience
-\I've taken and done well in CS courses at an accredited university
+Primary Skills\Can program
+\Can follow directions
+\Has non-school programming experience
+\Has completed accredited university's CS courses
 \
-Secondary Skills\Java
-\Python
+Secondary Skills\Python
+\Java
 \HTML/CSS/JS
 \
-Tertiary Skills\Ruby, C, x86 Assembly, SQL, *nix Systems, Git, Make, Maven, Microsoft Office, Notepad++, Vim, Google Chrome, Firefox, Data Structures, Algorithms, Functional Programming, Imperative Programming, Basic Japanese, Basic Spanish, Advanced English, Intermediate Email Management, Slightly-Above-Average Handwriting When I Try, Calculus, Discrete Mathematics, Algebra, Basic Arithmetic, cowsay, Wolfram Mathematica
+Tertiary Skills\C, x86 Assembly, Ruby, SQL, *nix Systems, Functional Paradigms, OOP Paradigms, Git, Make, Maven, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, Data Structures, Algorithms, Basic Japanese, Basic Spanish, Advanced English, cowsay
 \
-Experience\MonkeyGamesMC\2014 - 2017
-\> worked in small group to maintain public game server. used Java, SQL, Git, Maven.
-\CyberCamp\2015
-\> went to a cybersecurity summer camp.
-\CyberStart\2017
-\> participated in cybersecurity capture the flag competition.
+Experience\Scorebook\2019
+\> built large Java application for high-school track team. worked in group using JavaFX, SQL, Git.
 \HSPC@UVA\2018, 2019
 \> participated in University of Virginia's team high-school programming competition in 2018 and 2019.
-\Scorebook\2019
-\> worked in group to create application for high-school track team. used Java, JavaFX, SQL, Git.
+\CyberStart\2017
+\> participated in cybersecurity capture the flag competition.
+\CyberCamp\2015
+\> went to a cybersecurity summer camp.
+\MonkeyGamesMC\2014 - 2017
+\> built many small Java plugins for public game server. worked in small group using Java, SQL, Git, Maven.
