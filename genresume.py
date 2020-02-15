@@ -35,6 +35,6 @@ html += '</table></div>'
 
 print(html)
 
-open('output.html', 'w').write(html)
+open('index.html', 'w').write(html)
 
 print('done')
