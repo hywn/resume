@@ -35,10 +35,13 @@ Secondary Skills\Python
 Tertiary Skills\C, x86 Assembly, Ruby, SQL, *nix Systems, Functional Paradigms, OOP Paradigms, Git, Make, Maven, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, Web Scraping, Data Structures, Algorithms, Basic Japanese, Basic Spanish, Advanced English, cowsay
 \
 \
-Personal Projects\<a href="https://hywn.github.io/han/">han</a>\2020
+Showcase\<a href="https://github.com/hywn/simple-Yelp">simple-Yelp</a>\2020
+\> A simple Yelp interface.
+\> Made with HTML/CSS/JS and Ruby
+\<a href="https://hywn.github.io/han/">han</a>\2020
 \> A script that finds Japanese and Korean cognates from shared Chinese characters.
 \> Made with Python, HTML/CSS
-\<a href="http://hywn.github.io/schedule/schedule?src=https://gist.githubusercontent.com/hywn/7e52ab8abe2ae75b04116ba36a20cfc2/raw/">schedule</a>\2019
+\<a href="http://hywn.github.io/shtl/schedule/schedule?src=https://gist.githubusercontent.com/hywn/7e52ab8abe2ae75b04116ba36a20cfc2/raw/">schedule</a>\2019
 \> A tool for generating pretty weekly schedules.
 \> Made with HTML/CSS/JS
 \<a href="https://github.com/hywn/BChain">BChain</a>\2019
