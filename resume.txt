@@ -41,7 +41,7 @@ Showcase\<a href="https://github.com/hywn/simple-Yelp">simple-Yelp</a>\2020
 \<a href="https://hywn.github.io/han/">han</a>\2020
 \> A script that finds Japanese and Korean cognates from shared Chinese characters.
 \> Made with Python, HTML/CSS
-\<a href="http://hywn.github.io/shtl/schedule/schedule?src=https://gist.githubusercontent.com/hywn/7e52ab8abe2ae75b04116ba36a20cfc2/raw/">schedule</a>\2019
+\<a href="http://hywn.github.io/sche/schedule?src=https://gist.githubusercontent.com/hywn/7e52ab8abe2ae75b04116ba36a20cfc2/raw/">schedule</a>\2019
 \> A tool for generating pretty weekly schedules.
 \> Made with HTML/CSS/JS
 \<a href="https://github.com/hywn/BChain">BChain</a>\2019
