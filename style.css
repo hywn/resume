@@ -1,8 +1,8 @@
-table { table-layout: fixed; width: 100% }
-#wrapper { max-width: 60em; margin: 3em }
+table { table-layout: fixed; width: 60em }
 
 body
 {
+	margin: 3.5em;
 	font-family: 'Lato';
 	display: flex;
 	justify-content: center

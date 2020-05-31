@@ -28,4 +28,4 @@ trs = rest.map { |line|
 
 }
 
-File.write 'index.html', "<style>#{css}</style><div id=\"wrapper\"><table>#{trs.join ''}</table></div>"
+File.write 'index.html', "<style>#{css}</style><table>#{trs.join ''}</table>"
