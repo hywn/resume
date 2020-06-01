@@ -24,31 +24,17 @@ Experience
 
 Education
 ---------
-* Anticipated BS in Computer Science (University of Virginia) <Present - 2023>
-* AP Computer Science (Woodgrove High School) <2018 - 2019>
-* Learn to Program: The Fundamentals (Coursera) <2014>
+* Anticipated BS in Computer Science from University of Virginia <Present - 2023>
 
 
-Primary Skills
+Qualifications
 --------------
 * Can program
-* Has completed accredited university's CS courses
-* Has non-school programming experience
+* Can learn things
+* Has learned things at accredited university
 
 
-Secondary Skills
-----------------
-* Python
-* Java
-* HTML/CSS/JS
-
-
-Tertiary Skills
----------------
-* C, x86 Assembly, Ruby, SQL, *nix Systems, Functional Paradigms, OOP Paradigms, Git, Make, Maven, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, Web Scraping, Data Structures, Algorithms, Basic Japanese, Basic Spanish, Advanced English, cowsay
-
-
-Showcase
+Projects
 --------
 * [simple-Yelp](https://github.com/hywn/simple-Yelp") <2020>
 	- A simple Yelp interface.
@@ -73,3 +59,18 @@ Showcase
 * [weeblayouttool](https://github.com/hywn/weeblayouttool") <2016>
 	- A tool for slicing images into weirdly proportioned grids.
 	  Made with Java
+
+
+Tech
+----
+* JavaScript
+* HTML/CSS
+* Java
+* Python
+* Ruby
+
+
+More Tech
+--------
+* C, x86 Assembly, SQL, *nix, Git, Make, Maven, Web Scraping, Data Structures, Algorithms, Functional Paradigms, OOP Paradigms, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
+
