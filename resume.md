@@ -73,4 +73,3 @@ Tech
 More Tech
 --------
 * C, x86 Assembly, SQL, *nix, Git, Make, Maven, Web Scraping, Data Structures, Algorithms, Functional Paradigms, OOP Paradigms, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
-

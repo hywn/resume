@@ -15,7 +15,7 @@ output = text.scan(/(.+)\n(---+|===+)\n((?:(?:\t|\*).+\n?|\n)+)/).map { |title, 
 	contents = "<div class=\"second\"><h1>#{title}</h1></div>" + contents if line.match(/===+/)
 
 	# convert section content into seconds (with floating thirds)
-	html + contents.gsub(/\* (.+)\n((?:\t.+\n?)*)/) {
+	html + contents.gsub(/\* (.+)\n?((?:\t.+\n?)*)/) {
 
 		main, sub = $1, $2
 
