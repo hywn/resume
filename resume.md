@@ -1,7 +1,7 @@
 James Huang
 ===========
-* [hywn.github.io](https://hywn.github.io/)
-* [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu")
+* >>> [hywn.github.io](https://hywn.github.io/)
+* >>> [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu")
 
 
 Experience
