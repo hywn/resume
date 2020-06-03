@@ -1,7 +1,6 @@
 James Huang
 ===========
-* [hywn.github.io/resume](https://hywn.github.io/resume/) (click links online!)
-* [github.com/hywn](https://github.com/hywn)
+* [hywn.github.io](https://hywn.github.io/)
 * [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu")
 
 
