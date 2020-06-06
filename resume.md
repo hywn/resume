@@ -39,7 +39,7 @@ Projects
 	- A simple Yelp interface.
 	  Made with HTML/CSS/JS and Ruby
 
-* [han](https://hywn.github.io/han/) <2020>
+* [han](https://hywn.github.io/han/cognates/) <2020>
 	- A script that finds Japanese and Korean cognates from shared Chinese characters.
 	  Made with Python, HTML/CSS
 
