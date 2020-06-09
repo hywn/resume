@@ -4,23 +4,6 @@ James Huang
 * >>> [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu)
 
 
-Experience
-----------
-* [Scorebook](https://github.com/hywn/Scorebook) <2019>
-	- Built large JavaFX application for high-school track team.
-	  Worked in group and used Java, SQL, Git.
-
-* HSPC@UVA <2018, 2019>
-	- Participated in University of Virginia's team high-school programming competition.
-
-* SANS CyberStart <2017>
-	- Participated in cybersecurity capture-the-flag competition.
-
-* [MonkeyGamesMC](https://github.com/mogmc) <2014 - 2017>
-	- Built many small Java plugins for public game server.
-	  Worked in small group and used Java, SQL, Git, Maven.
-
-
 Education
 ---------
 * Anticipated BS in Computer Science from University of Virginia <Present - 2023>
@@ -67,6 +50,23 @@ Tech
 * Java
 * Python
 * Ruby
+
+
+Experience
+----------
+* [Scorebook](https://github.com/hywn/Scorebook) <2019>
+	- Built large JavaFX application for high-school track team.
+	  Worked in group and used Java, SQL, Git.
+
+* HSPC@UVA <2018, 2019>
+	- Participated in University of Virginia's team high-school programming competition.
+
+* SANS CyberStart <2017>
+	- Participated in cybersecurity capture-the-flag competition.
+
+* [MonkeyGamesMC](https://github.com/mogmc) <2014 - 2017>
+	- Built many small Java plugins for public game server.
+	  Worked in small group and used Java, SQL, Git, Maven.
 
 
 More Tech
