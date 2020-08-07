@@ -11,9 +11,10 @@ Education
 
 Qualifications
 --------------
-* Can program
+* Self-motivated
 * Can learn things
-* Has learned things at accredited university
+* Can program
+* Has college degree (in progress)
 
 
 Projects
@@ -51,6 +52,14 @@ Experience
 	  Worked alone and in small group; used Java, SQL, Git, Maven.
 
 
+Extracurricular
+---------------
+* CyberPatriot <2018 - 2019>
+	- Did *nix-related work for school's cybersecurity team, which accomplished gold tier in CyberPatriot XI's open division
+* SANS CyberStart <2017>
+	- Placed in top 3rd percentile (116/3935) of cybersecurity capture-the-flag competition
+
+
 Tech
 ----
 * JavaScript
@@ -58,8 +67,4 @@ Tech
 * Java
 * Python
 * Ruby
-
-
-More Tech
---------
 * C, x86 Assembly, SQL, *nix, Git, Make, Maven, Web Scraping, Data Structures, Algorithms, Functional Paradigms, OOP Paradigms, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
