@@ -1,16 +1,16 @@
 James Huang
-===========
+============
 * >>> [hywn.github.io](https://hywn.github.io/)
 * >>> [jh7qbe@virginia.edu](mailto:jh7qbe@virginia.edu)
 
 
 Education
----------
+----------
 * Anticipated BS in Computer Science from University of Virginia <Present - 2023>
 
 
 Qualifications
---------------
+---------------
 * Self-motivated
 * Can learn things
 * Can program
@@ -18,7 +18,7 @@ Qualifications
 
 
 Projects
---------
+---------
 * [simple-Yelp](https://github.com/hywn/simple-Yelp) <2020>
 	- A simple Yelp interface wrapping the Yelp Fusion API
 	  [Ruby, JS, HTML/CSS]
@@ -41,7 +41,7 @@ Projects
 
 
 Experience
-----------
+-----------
 * [Scorebook](https://github.com/hywn/Scorebook) <2019>
 	- Built large JavaFX application for high-school track team.
 	  Worked in group and used Java, SQL, Git.
@@ -53,7 +53,7 @@ Experience
 
 
 Extracurricular
----------------
+----------------
 * CyberPatriot <2018 - 2019>
 	- Did *nix-related work for school's cybersecurity team, which accomplished gold tier in CyberPatriot XI's open division
 * SANS CyberStart <2017>
@@ -61,7 +61,7 @@ Extracurricular
 
 
 Tech
-----
+-----
 * JavaScript
 * HTML/CSS
 * Java
