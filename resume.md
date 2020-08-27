@@ -66,5 +66,4 @@ Tech
 * HTML/CSS
 * Java
 * Python
-* Ruby
-* C, x86 Assembly, SQL, *nix, Git, Make, Maven, Web Scraping, Data Structures, Algorithms, Functional Paradigms, OOP Paradigms, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
+* Ruby, C, x86 Assembly, SQL, *nix, Git, Make, Maven, Web Scraping, Data Structures, Algorithms, Functional Paradigms, OOP Paradigms, Microsoft Office, Wolfram Mathematica, Autodesk Inventor, cowsay
