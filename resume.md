@@ -6,7 +6,7 @@ James Huang
 
 Education
 ----------
-* Anticipated BS in Computer Science from University of Virginia <Present - 2023>
+* Anticipated BS in Computer Science from University of Virginia <2023 - Present>
 
 
 Qualifications
